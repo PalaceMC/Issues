@@ -16,4 +16,4 @@ Sharing serious vulnerabilities (ex: posting a public issue here) may result in 
 
 ### Current Administrators
 - Almic
-  - Discord: `almic™#0001`
+  - Discord: `almictm`

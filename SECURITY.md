@@ -10,4 +10,4 @@ If you discovered a problem with the help of others, please provide their userna
 
 ## Current Administrators
 - Almic
-  - Discord: `almic™#0001`
+  - Discord: `almictm`
